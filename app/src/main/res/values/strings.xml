@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="introduce_el_nombre">Introduce el nombre</string>
+    <string name="introduce_la_edad">Introduce la edad</string>
+    <string name="introduce_la_ofensa">Introduce la ofensa</string>
+    <string name="anadir">Añadir</string>
+    <string name="nombre">Nombre: </string>
+    <string name="edad">Edad: </string>
+    <string name="ofensa">Ofensa: </string>
+    <string name="volver">Volver</string>
+    <string name="lista_de_enemigos">Lista de enemigos</string>
+</resources>
